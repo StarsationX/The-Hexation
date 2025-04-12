@@ -15,3 +15,5 @@ E.R.P.O :
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexation/refs/heads/main/E.R.P.O.lua'))()
 ```
+# Why is it obfuscated?
+come on.. do you really think I like to share my src..
