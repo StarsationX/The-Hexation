@@ -19,7 +19,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexat
 ```
 Evade :
 ```lua
-loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexation/refs/heads/main/EvadeUtils'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexation/refs/heads/main/EvadeUtils.lua'))()
 ```
 
 # Why is it obfuscated?
