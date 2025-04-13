@@ -1,4 +1,4 @@
-!(https://imgur.com/a/JbDOlDQ "The Hexation Logo")
+[img]https://i.imgur.com/BtoAuZn.png[/img]
 
 # The-Hexation
 How to use this?
