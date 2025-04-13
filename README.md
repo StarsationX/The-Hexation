@@ -19,3 +19,6 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexat
 ```
 # Why is it obfuscated?
 come on.. do you really think I like to share my src..
+
+# Can you make it in 1 script?
+Sure man, but not rn tho. I'll update it. but.. not this while..
