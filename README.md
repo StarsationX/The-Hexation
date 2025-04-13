@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="BtoAuZn"><a href="https://imgur.com/BtoAuZn">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![TheHexationLogo](https://github.com/user-attachments/assets/3e32380b-acb9-462a-8144-ad66c9cfb4ef)
 
 # The-Hexation
 How to use this?
