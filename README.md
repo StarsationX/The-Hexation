@@ -1,3 +1,5 @@
+![alt text](https://imgur.com/a/JbDOlDQ "The Hexation Logo")
+
 # The-Hexation
 How to use this?
 
