@@ -22,6 +22,11 @@ Evade :
 loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexation/refs/heads/main/EvadeUtils.lua'))()
 ```
 
+HexationUtils :
+```lua
+loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexation/refs/heads/main/HexationUtils.lua'))()
+```
+
 # Why is it obfuscated?
 come on.. do you really think I like to share my src..
 
