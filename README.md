@@ -31,4 +31,4 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/StarsationX/The-Hexat
 come on.. do you really think I like to share my src..
 
 # Can you make it in 1 script?
-Sure man, but not rn tho. I'll update it. but.. not this while..
+Sure man, but not rn tho. I'll update it. but.. not this while.. I'll do it when I recovered from this mentally rabbit hole okay? also some script require keys from me, Starsation myself.
